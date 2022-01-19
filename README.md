@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Getting Started
+
+Get your github developer credentials and put it in .env file
+REACT_APP_GITHUB_API_SECRET=
+yarn
+yarn start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
